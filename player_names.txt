@@ -1,0 +1,2 @@
+Player 1: h
+Player 2: v
